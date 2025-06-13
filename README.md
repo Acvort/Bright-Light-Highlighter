@@ -3,15 +3,11 @@
 
 > **Данный пакет ресурсов изменит текстуру маркера поднятого предмета из мода "[Highlighter](https://github.com/CtrelokCvobods/Bright-Light-Highlighter?tab=readme-ov-file#highlighter)" на более контрастную.**
 
-***1. An example from the mod || Пример из мода:***
+***0. An example from the mod || Пример из мода:***
 
 ![0](https://cdn.modrinth.com/data/cached_images/371b692ef9f2e8b7e134038bcd562d54d0e41e9c.png)
 
-***2. Resource Packs 8x || Пакет ресурсов 8x:***
-
-![1](https://cdn.modrinth.com/data/cached_images/9382c9b633f2a90c77d8878f8df8d7481c8233a0.png)
-
-***3. Resource Packs 16x || Пакетов ресурсов 16x:***
+***1. Resource Packs 16x || Пакетов ресурсов 16x:***
  
 ![2](https://cdn.modrinth.com/data/cached_images/a9cf4a634d65649baaa770d3ac7b8cf3de907863.png)
 ## [📥] Stay tuned for updates || Следите за обновлениями
