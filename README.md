@@ -1,11 +1,11 @@
 # [📘] Bright Light [[Highlighter](https://github.com/CtrelokCvobods/Bright-Light-Highlighter?tab=readme-ov-file#highlighter)] || Яркий свет [[Highlighter](https://github.com/CtrelokCvobods/Bright-Light-Highlighter?tab=readme-ov-file#highlighter)]
 <details open>
-<summary>🌐 Русский:</summary>
+<summary>🌐 Русский</summary>
 
 > **Данный пакет ресурсов изменит текстуру маркера поднятого предмета из мода "[Highlighter](https://github.com/CtrelokCvobods/Bright-Light-Highlighter?tab=readme-ov-file#highlighter)" на более контрастную.**
 </details>
 <details open>
-<summary>🌐 English:</summary>
+<summary>🌐 English</summary>
 
 > **This resource pack will change the texture of the marker of the raised object from the "[Highlighter](https://github.com/CtrelokCvobods/Bright-Light-Highlighter?tab=readme-ov-file#highlighter)" mod to a more contrasting one.**
 </details>
@@ -16,10 +16,10 @@
 
 + ***Resource Packs 16x || Пакетов ресурсов 16x:***
  
-![2](https://cdn.modrinth.com/data/cached_images/a9cf4a634d65649baaa770d3ac7b8cf3de907863.png)
+![1](https://cdn.modrinth.com/data/cached_images/a9cf4a634d65649baaa770d3ac7b8cf3de907863.png)
 ## [📙] Licensed || Лицензия
-### -> [CC-BY-NC-SA-4.0](https://github.com/CtrelokCvobods/Bright-Light-Highlighter/blob/main/LICENSE.md)
-![CC-BY-NC-SA-4.0](https://github.com/user-attachments/assets/fb300842-19d0-4a87-afea-08ce4e0bcd9a)
+### -> [CC-BY-NC-SA-4.0](https://github.com/Acvort/Bright-Light-Highlighter?tab=License-1-ov-file#creative-commons-attribution-non-commercial-share-alike-40-international)
+![CC-BY-NC-SA-4.0](https://github.com/user-attachments/assets/2543ed34-46d4-4917-8596-2b7d9a182246)
 ## [📥] Stay tuned for updates || Следите за обновлениями
 ### -> [Modrinth](https://modrinth.com/resourcepack/bright_light-highlighter)
 ## [🔗] Sources || Источники
