@@ -19,7 +19,9 @@
 ![1](https://cdn.modrinth.com/data/cached_images/a9cf4a634d65649baaa770d3ac7b8cf3de907863.png)
 ## [📙] Licensed || Лицензия
 ### -> [CC-BY-NC-SA-4.0](https://github.com/Acvort/Bright-Light-Highlighter?tab=License-1-ov-file#creative-commons-attribution-non-commercial-share-alike-40-international)
-![CC-BY-NC-SA-4.0](https://github.com/user-attachments/assets/2543ed34-46d4-4917-8596-2b7d9a182246)
+<img width="1023" height="575" alt="CC-BY-NC-SA-4.0" src="https://github.com/user-attachments/assets/4f5d9a5c-b09a-459f-abef-99eb77c68bab" />
+
+
 ## [📥] Stay tuned for updates || Следите за обновлениями
 ### -> [Modrinth](https://modrinth.com/resourcepack/bright_light-highlighter)
 ## [🔗] Sources || Источники
